@@ -1,0 +1,4888 @@
+{
+    "error_status": false,
+    "code": "USER_REQUEST_SUCCESS",
+    "message": "Request fulfilled successfully",
+    "data": [{
+        "company_code": 1,
+        "company_key": "SRK",
+        "company_name": "SRK",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": [{
+            "department_code": 1,
+            "department_key": "STK",
+            "department_name": "SRK Inventory Department",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 116,
+                    "user_fullname": "JIGNESH BHALALA ( ADMIN )",
+                    "user_short_name": "JBB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 129,
+                    "user_fullname": "BHAVESH SORATHIYA ( ADMIN )",
+                    "user_short_name": "BGS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 171,
+                    "user_fullname": "SHOW ADMIN",
+                    "user_short_name": "SHOWA",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 52,
+                    "user_fullname": "DINESH VANDRA",
+                    "user_short_name": "DNV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 130,
+                    "user_fullname": "JITU SURESH MODI",
+                    "user_short_name": "JSM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 131,
+                    "user_fullname": "MITESH SHAH",
+                    "user_short_name": "SMS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 133,
+                    "user_fullname": "SATISH DEOKAR",
+                    "user_short_name": "SRD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 134,
+                    "user_fullname": "KAPIL ",
+                    "user_short_name": "KVG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 143,
+                    "user_fullname": "RAVI BOKHA",
+                    "user_short_name": "RBB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 144,
+                    "user_fullname": "HARSHAD VAGHASIYA ",
+                    "user_short_name": "HPV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 191,
+                    "user_fullname": "PRACHI MAHADE",
+                    "user_short_name": "PPM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 206,
+                    "user_fullname": "hetal",
+                    "user_short_name": "had",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 209,
+                    "user_fullname": "Account 3",
+                    "user_short_name": "A3",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 210,
+                    "user_fullname": "priya dave",
+                    "user_short_name": "PD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 2,
+            "department_key": "GRD",
+            "department_name": "Grading",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [{
+                    "user_code": 220,
+                    "user_fullname": "TEJAS GADHIYA",
+                    "user_short_name": "TGB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 38,
+                    "user_fullname": "CHIRAG CHOPRA ( ADMIN )",
+                    "user_short_name": "CRC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 217,
+                    "user_fullname": "vidhi",
+                    "user_short_name": "vids",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 35,
+                    "user_fullname": "ANKIT BHUVAD",
+                    "user_short_name": "AKB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 36,
+                    "user_fullname": "ARVIND RAVAL",
+                    "user_short_name": "ARR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 37,
+                    "user_fullname": "BHAVESH RAUT",
+                    "user_short_name": "BDR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 39,
+                    "user_fullname": "DIXIT SAWANT",
+                    "user_short_name": "DDS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 40,
+                    "user_fullname": "HARIKRISHNA MEHTA",
+                    "user_short_name": "HKM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 41,
+                    "user_fullname": "JITENDRA VISHWAKARMA",
+                    "user_short_name": "JAV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 42,
+                    "user_fullname": "MANGESH TEMKAR",
+                    "user_short_name": "MDT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 44,
+                    "user_fullname": "PRAKASH NARKAR",
+                    "user_short_name": "PJN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 45,
+                    "user_fullname": "PRAVIN KARPE",
+                    "user_short_name": "PRK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 46,
+                    "user_fullname": "RUPESH RAUT",
+                    "user_short_name": "RRR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 47,
+                    "user_fullname": "SACHIN BENDRE",
+                    "user_short_name": "SSB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 49,
+                    "user_fullname": "YOGESH BAIT",
+                    "user_short_name": "YBB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 50,
+                    "user_fullname": "HIREN GOTI",
+                    "user_short_name": "HIG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 51,
+                    "user_fullname": "RAMESH MODI",
+                    "user_short_name": "RCM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 53,
+                    "user_fullname": "SHANTOSH KANDEKAR",
+                    "user_short_name": "SSK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 54,
+                    "user_fullname": "GRADING TRAINEE-1",
+                    "user_short_name": "GR1",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 57,
+                    "user_fullname": "SMEET DOSHI",
+                    "user_short_name": "SSD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 111,
+                    "user_fullname": "NITIN J. NIKAM",
+                    "user_short_name": "NJN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 147,
+                    "user_fullname": "ABHINAV PATEL",
+                    "user_short_name": "AJP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 148,
+                    "user_fullname": "SAGAR KHICHDIYA",
+                    "user_short_name": "SAK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 151,
+                    "user_fullname": "GRADING TRAINEE-2",
+                    "user_short_name": "GR2",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 152,
+                    "user_fullname": "GRADING TRAINEE-3",
+                    "user_short_name": "GR3",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 153,
+                    "user_fullname": "GRADING TRAINEE-4",
+                    "user_short_name": "GR4",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 154,
+                    "user_fullname": "GRADING TRAINEE-5",
+                    "user_short_name": "GR5",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 164,
+                    "user_fullname": "AKSHAT R. SHAH",
+                    "user_short_name": "SAR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 165,
+                    "user_fullname": "HARDIK J. KANKOTIA",
+                    "user_short_name": "HJK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 166,
+                    "user_fullname": "VIPUL C. SOLANKI",
+                    "user_short_name": "VCS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 172,
+                    "user_fullname": "NIRAV LATHIYA",
+                    "user_short_name": "NVL",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 181,
+                    "user_fullname": "JIGAR B. CHABHADIYA",
+                    "user_short_name": "JBC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 184,
+                    "user_fullname": "HARSH R. SHAH",
+                    "user_short_name": "HRS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 185,
+                    "user_fullname": "BHAVESH P. VAGHELA",
+                    "user_short_name": "BPV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 189,
+                    "user_fullname": "GRADING-WEB-CHECK",
+                    "user_short_name": "GWC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 197,
+                    "user_fullname": "SIDDHARTH P. THADESHWAR",
+                    "user_short_name": "SPT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 198,
+                    "user_fullname": "KARTIK A. GOYANI",
+                    "user_short_name": "KAG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 199,
+                    "user_fullname": "MONIL S. JASANI",
+                    "user_short_name": "MSJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 3,
+            "department_key": "MAT",
+            "department_name": "Market Analysis Team",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 94,
+                    "user_fullname": "CHIRAG MANANI ( ADMIN )",
+                    "user_short_name": "CHM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 137,
+                    "user_fullname": "MAT ( ADMIN )",
+                    "user_short_name": "MATA",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 43,
+                    "user_fullname": "NITISH JANI",
+                    "user_short_name": "NNJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 56,
+                    "user_fullname": "AKSHAY PARMAR",
+                    "user_short_name": "ARP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 95,
+                    "user_fullname": "JIGAR RAJODIYA",
+                    "user_short_name": "JRR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 96,
+                    "user_fullname": "DHRUVIL SHETH",
+                    "user_short_name": "DHS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 97,
+                    "user_fullname": "RAKESH PATEL",
+                    "user_short_name": "RJP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 98,
+                    "user_fullname": "ROHIT VORA",
+                    "user_short_name": "RJV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 99,
+                    "user_fullname": "RONAK SINGHI",
+                    "user_short_name": "RSS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 100,
+                    "user_fullname": "VIJAY BALAR",
+                    "user_short_name": "VNB ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 150,
+                    "user_fullname": "Rahul .R.Chitaliya",
+                    "user_short_name": "RRD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 155,
+                    "user_fullname": "TRAINEE MAT 1",
+                    "user_short_name": "TMAT1",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 156,
+                    "user_fullname": "TRAINEE MAT 2",
+                    "user_short_name": "TMAT2",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 157,
+                    "user_fullname": "TRAINEE MAT 3",
+                    "user_short_name": "TMAT3",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 170,
+                    "user_fullname": "AJAY JASWANTBHAI PARMAR",
+                    "user_short_name": "PAJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 4,
+            "department_key": "LAB",
+            "department_name": "Laboratory",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 5,
+            "department_key": "PHO",
+            "department_name": "PHOTO",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 6,
+            "department_key": "MFG",
+            "department_name": "MANUFACTURING",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 92,
+                    "user_fullname": "NIRAV NAROLA",
+                    "user_short_name": "NN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 93,
+                    "user_fullname": "BIPIN K.LUKHI",
+                    "user_short_name": "BL",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 138,
+                    "user_fullname": "SANJAY DESAI",
+                    "user_short_name": "SMD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 7,
+            "department_key": "GMFG",
+            "department_name": "GRADING MFG",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 55,
+                    "user_fullname": "MUKESH M.PALAIDYA",
+                    "user_short_name": "MMP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 58,
+                    "user_fullname": "NARESH T.JALALPARA",
+                    "user_short_name": "NTJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 59,
+                    "user_fullname": "ANIL B.GONDALIYA",
+                    "user_short_name": "ABG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 60,
+                    "user_fullname": "ANIL L.NADODA",
+                    "user_short_name": "ALN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 61,
+                    "user_fullname": "AJAY R.SAVLIYA",
+                    "user_short_name": "ARS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 62,
+                    "user_fullname": "BHAVESH G.PATEL",
+                    "user_short_name": "BGP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 63,
+                    "user_fullname": "CHIRAG  H. ITALIYA",
+                    "user_short_name": "CHI",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 64,
+                    "user_fullname": "SUNIL G.CHALODIYA",
+                    "user_short_name": "SGC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 65,
+                    "user_fullname": "DHARMESH D.SANKAR",
+                    "user_short_name": "DSD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 66,
+                    "user_fullname": "DIPAK D.LUKHI",
+                    "user_short_name": "DDL",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 67,
+                    "user_fullname": "DHARMESH  M. DOBARIYA",
+                    "user_short_name": "DMD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 68,
+                    "user_fullname": "HIREN V.RASHIYA",
+                    "user_short_name": "HVR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 69,
+                    "user_fullname": "HARESH  D. DHOLAKIYA",
+                    "user_short_name": "HDD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 70,
+                    "user_fullname": "JIGNESH G.ASALALIYA",
+                    "user_short_name": "JGA",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 71,
+                    "user_fullname": "JIVNESH H. UKANI",
+                    "user_short_name": "JHU",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 72,
+                    "user_fullname": "VIPUL K. JOTANYA",
+                    "user_short_name": "VKJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 73,
+                    "user_fullname": "KEVAL M.RIJIYA",
+                    "user_short_name": "KMR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 74,
+                    "user_fullname": "MEHUL N.DHOLAKIYA",
+                    "user_short_name": "MND",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 75,
+                    "user_fullname": "MITUL R.DHOLAKIYA",
+                    "user_short_name": "MRD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 76,
+                    "user_fullname": "NILESH G. MERULIYA",
+                    "user_short_name": "NGM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 77,
+                    "user_fullname": "NITIN V. DHAMELIYA",
+                    "user_short_name": "NVD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 78,
+                    "user_fullname": "PARESH B. ASHLALIYA",
+                    "user_short_name": "PBA",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 79,
+                    "user_fullname": "BHAVESH M. BHESANIYA",
+                    "user_short_name": "BMB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 80,
+                    "user_fullname": "PRANAV  J. TRIVEDI",
+                    "user_short_name": "PJT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 81,
+                    "user_fullname": "PRADIP  J. KAKADIYA",
+                    "user_short_name": "PJK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 82,
+                    "user_fullname": "PARESH K. PADSHALA",
+                    "user_short_name": "PAR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 83,
+                    "user_fullname": "RAM G. RIGEYA",
+                    "user_short_name": "RGR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 84,
+                    "user_fullname": "SHAILESH C. GHODHANI",
+                    "user_short_name": "SCG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 85,
+                    "user_fullname": "SUJAL  L. GAJERA",
+                    "user_short_name": "SLG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 86,
+                    "user_fullname": "SANJAY B.SHINGALA",
+                    "user_short_name": "SBS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 87,
+                    "user_fullname": "VIPUL K.CHOVATIYA",
+                    "user_short_name": "VKC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 88,
+                    "user_fullname": "VIJAY  H. MOTISARIYA",
+                    "user_short_name": "VHM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 89,
+                    "user_fullname": "KIRIT  D. PATEL",
+                    "user_short_name": "KDP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 90,
+                    "user_fullname": "KARTIK B.BABARIYA",
+                    "user_short_name": "KBB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 91,
+                    "user_fullname": "JALPESH K.PATEL",
+                    "user_short_name": "JKP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 8,
+            "department_key": "MATMFG",
+            "department_name": "MAT MFG",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 101,
+                    "user_fullname": "SAMIR NAROLA ( ADMIN )",
+                    "user_short_name": "SAM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 102,
+                    "user_fullname": "DILIP BODAR",
+                    "user_short_name": "MDI",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 103,
+                    "user_fullname": "DILIP SHAVALIA",
+                    "user_short_name": "SDS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 104,
+                    "user_fullname": "HITESH MULANI",
+                    "user_short_name": "HJM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 105,
+                    "user_fullname": "MAHENDRA VAGHSHIYA",
+                    "user_short_name": "MMV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 106,
+                    "user_fullname": "NARESH THUMMAR",
+                    "user_short_name": "NDT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 107,
+                    "user_fullname": "NEW USER IN MAT",
+                    "user_short_name": "STP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 108,
+                    "user_fullname": "PANKIL PATEL",
+                    "user_short_name": "PKP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 109,
+                    "user_fullname": "PRADIP RACHHADIYA",
+                    "user_short_name": "PBR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 110,
+                    "user_fullname": "MANISH GORANI",
+                    "user_short_name": "MNP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 9,
+            "department_key": "CERT",
+            "department_name": "CERTIFICATE",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 13,
+                    "user_fullname": "AVDHUT ( ADMIN )",
+                    "user_short_name": "AMG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 14,
+                    "user_fullname": "PRITESH BHAMBHID ( ADMIN )",
+                    "user_short_name": "BPM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 213,
+                    "user_fullname": "mansi",
+                    "user_short_name": "MT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 10,
+            "department_key": "SALES",
+            "department_name": "Sales",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [{
+                    "user_code": 203,
+                    "user_fullname": "Satish Kayada",
+                    "user_short_name": "SK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [{
+                    "user_code": 12,
+                    "user_fullname": "SANJAY UKANI",
+                    "user_short_name": "SRU",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 25,
+                    "user_fullname": "PARESH BHATIYA ( ADMIN )",
+                    "user_short_name": "PMB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 28,
+                    "user_fullname": "RAHUL( ADMIN )",
+                    "user_short_name": "RN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 29,
+                    "user_fullname": "RAJESH GAJERA",
+                    "user_short_name": "RAJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 48,
+                    "user_fullname": "SANDEEP DHOLIYA ( ADMIN ) ",
+                    "user_short_name": "SDD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 123,
+                    "user_fullname": "MANSHUKH",
+                    "user_short_name": "MB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 124,
+                    "user_fullname": "MANSHUKH BUDHELIYA (A)",
+                    "user_short_name": "MBB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 132,
+                    "user_fullname": "PARIMAL ( ADMIN )",
+                    "user_short_name": "PMP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 136,
+                    "user_fullname": "GOLDI ( S. ADMIN )",
+                    "user_short_name": "SGXP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 140,
+                    "user_fullname": "ANKIT SETHNA ( ADMIN )",
+                    "user_short_name": "AYS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 141,
+                    "user_fullname": "VISHAL (ADMIN)",
+                    "user_short_name": "VM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 158,
+                    "user_fullname": "KHOKHARIYA HITESH (ADMIN)",
+                    "user_short_name": "HK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 163,
+                    "user_fullname": "SHAKIRA",
+                    "user_short_name": "SHK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 190,
+                    "user_fullname": "VIMAL RAJODIA",
+                    "user_short_name": "VKR",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 192,
+                    "user_fullname": "CHANDRAKANT JOSI",
+                    "user_short_name": "JCD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 207,
+                    "user_fullname": "Account 1",
+                    "user_short_name": "A1",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 15,
+                    "user_fullname": "ALPESH NAROLA",
+                    "user_short_name": "AIN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 16,
+                    "user_fullname": "ASHOK NADODA",
+                    "user_short_name": "AGN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 18,
+                    "user_fullname": "JAINISH GAJERA",
+                    "user_short_name": "JLG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 19,
+                    "user_fullname": "JAYDEEP GADHIYA",
+                    "user_short_name": "JAY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 20,
+                    "user_fullname": "KALPESH BHATIYA",
+                    "user_short_name": "KLB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 21,
+                    "user_fullname": "KARTIK NAVADIYA",
+                    "user_short_name": "KVP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 22,
+                    "user_fullname": "KASHYAP DHOLIYA",
+                    "user_short_name": "KPD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 23,
+                    "user_fullname": "KEVAL JIVANI",
+                    "user_short_name": "KVJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 24,
+                    "user_fullname": "MILAN CHOPDA",
+                    "user_short_name": "MDC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 27,
+                    "user_fullname": "PRABHU DHOLAKIA",
+                    "user_short_name": "PPD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 30,
+                    "user_fullname": "Shreyans Dholakia ",
+                    "user_short_name": "SGD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 31,
+                    "user_fullname": "TUSHAR CHILKA",
+                    "user_short_name": "TSC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 32,
+                    "user_fullname": "VARUN GOHIL",
+                    "user_short_name": "VJG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 33,
+                    "user_fullname": "VISHAL JODHANI",
+                    "user_short_name": "VMJ",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 34,
+                    "user_fullname": "ASHISH DESAI",
+                    "user_short_name": "ADD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 112,
+                    "user_fullname": "DAVID SHANGHAI",
+                    "user_short_name": "DVD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 113,
+                    "user_fullname": "DAVID SHENZHEN",
+                    "user_short_name": "DVS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 114,
+                    "user_fullname": "HITESH KHOKHARIYA",
+                    "user_short_name": "HIT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 115,
+                    "user_fullname": "JAMES",
+                    "user_short_name": "JMS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 117,
+                    "user_fullname": "LESHEM",
+                    "user_short_name": "LSM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 118,
+                    "user_fullname": "MICKEY",
+                    "user_short_name": "MKY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 119,
+                    "user_fullname": "ROY",
+                    "user_short_name": "RY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 120,
+                    "user_fullname": "WANGWEI",
+                    "user_short_name": "WW",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 121,
+                    "user_fullname": "ZHU",
+                    "user_short_name": "ZH",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 122,
+                    "user_fullname": "ERIC",
+                    "user_short_name": "ERC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 125,
+                    "user_fullname": "MICHAEL",
+                    "user_short_name": "MIC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 126,
+                    "user_fullname": "PATRICK",
+                    "user_short_name": "PAT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 127,
+                    "user_fullname": "QUEENI",
+                    "user_short_name": "QNE",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 128,
+                    "user_fullname": "SHAILESH KHUNT",
+                    "user_short_name": "SMK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 135,
+                    "user_fullname": "DHAVAL D. DIHORA",
+                    "user_short_name": "DDD",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 145,
+                    "user_fullname": "LOUIS",
+                    "user_short_name": "LOU",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 146,
+                    "user_fullname": "CHARMAINE",
+                    "user_short_name": "CHA",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 149,
+                    "user_fullname": "RAJESH MALAVIYA",
+                    "user_short_name": "RDM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 159,
+                    "user_fullname": "LAREMAR LI",
+                    "user_short_name": "LL",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 160,
+                    "user_fullname": "FENNY",
+                    "user_short_name": "FEN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 161,
+                    "user_fullname": "Raphie Lau ",
+                    "user_short_name": "RAPH",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 162,
+                    "user_fullname": "CHARLIE",
+                    "user_short_name": "CHL",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 167,
+                    "user_fullname": "DISHANT R. SHAH",
+                    "user_short_name": "DRS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 174,
+                    "user_fullname": "ANKIT SHETNA ",
+                    "user_short_name": "AS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 178,
+                    "user_fullname": "ARVIND NAROLA",
+                    "user_short_name": "APN",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 182,
+                    "user_fullname": "MANDY",
+                    "user_short_name": "MDY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 183,
+                    "user_fullname": "EBBY",
+                    "user_short_name": "EBY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 186,
+                    "user_fullname": "MITESH BHATIA",
+                    "user_short_name": "MIT",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 187,
+                    "user_fullname": "Z GRADING TEATING ",
+                    "user_short_name": "GTP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 188,
+                    "user_fullname": "WANG YI",
+                    "user_short_name": "WY",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 193,
+                    "user_fullname": "HITESH N CHHELIYA",
+                    "user_short_name": "HNC",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 194,
+                    "user_fullname": "MANOJ B BUDHELIYA",
+                    "user_short_name": "MBP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 195,
+                    "user_fullname": "SAHIL M. MALAVIYA",
+                    "user_short_name": "SMM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 196,
+                    "user_fullname": "JIGAR BHIKADIYA",
+                    "user_short_name": "JRB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 200,
+                    "user_fullname": "SRKAYS",
+                    "user_short_name": "SRKAYS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 202,
+                    "user_fullname": "Ritesh Khatri",
+                    "user_short_name": "RK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 204,
+                    "user_fullname": "Rushita Vaghasiya",
+                    "user_short_name": "SV",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 205,
+                    "user_fullname": "Test Admin",
+                    "user_short_name": "TADM",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 208,
+                    "user_fullname": "Account 2",
+                    "user_short_name": "A2",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 215,
+                    "user_fullname": "Anish Gandhi",
+                    "user_short_name": "AG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 11,
+            "department_key": "KYC",
+            "department_name": "KYC Account",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 168,
+                    "user_fullname": "MAT BORDER FOR MUMBHAI",
+                    "user_short_name": "MAT1",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 169,
+                    "user_fullname": "MAT BORDER FOR MFG",
+                    "user_short_name": "MAT2",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 12,
+            "department_key": "EXP",
+            "department_name": "Export Account",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 16,
+            "department_key": "Pur",
+            "department_name": "Purchase",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 142,
+                    "user_fullname": "SNEHAL",
+                    "user_short_name": "SRG",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 175,
+                    "user_fullname": "MAULIK BOKHA",
+                    "user_short_name": "MTB",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 176,
+                    "user_fullname": "RITIN KHENI",
+                    "user_short_name": "RTK",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 177,
+                    "user_fullname": "SUJIT SHAH",
+                    "user_short_name": "SRS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }, {
+                    "user_code": 179,
+                    "user_fullname": "RAHUL PATEL",
+                    "user_short_name": "RHP",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 17,
+            "department_key": "FC",
+            "department_name": "FANCY COLOUR",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 22,
+            "department_key": "0.99",
+            "department_name": "0.99",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 23,
+            "department_key": "1.00",
+            "department_name": "1.00",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 24,
+            "department_key": "3.00",
+            "department_name": "3.00",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 25,
+            "department_key": "WL",
+            "department_name": "WEIGHT LOSS",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 26,
+            "department_key": "DOS",
+            "department_name": "0.99 DOWN",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 27,
+            "department_key": "1UP",
+            "department_name": "1.00ct UP",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 28,
+            "department_key": "3UP",
+            "department_name": "3.00ct UP",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 30,
+            "department_key": "Ass",
+            "department_name": "ASSORT",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [{
+                    "user_code": 173,
+                    "user_fullname": "MIX ASSORT",
+                    "user_short_name": "MIXASS",
+                    "enc_dec_list": {
+                        "party_name": false,
+                        "party_address": true,
+                        "contact_person_email": true
+                    }
+                }],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 31,
+            "department_key": "hist12",
+            "department_name": "History Check1",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 32,
+            "department_key": "hist123",
+            "department_name": "History Check2",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 33,
+            "department_key": "hist",
+            "department_name": "history CSS",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 46,
+            "department_key": "SAMPLE_CSS",
+            "department_name": "sample test",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 62,
+            "department_key": "SELL_PAM",
+            "department_name": "sell pam",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 109,
+            "department_key": "SRK_USER",
+            "department_name": "ldfm",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 110,
+            "department_key": "DEPT_IC",
+            "department_name": "Dept IC",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 118,
+            "department_key": "SRK_USER",
+            "department_name": "zrkk",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 122,
+            "department_key": "SRK_USER",
+            "department_name": "karx",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 125,
+            "department_key": "SRK_USER",
+            "department_name": "kran",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 126,
+            "department_key": "DEPTMENT_IC",
+            "department_name": "Deptment ICz",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 143,
+            "department_key": "SRK_SHORTING",
+            "department_name": "yyud",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 144,
+            "department_key": "TESTDEPARTMENT",
+            "department_name": "TestDepartment",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 146,
+            "department_key": "APAM",
+            "department_name": "aPam",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 152,
+            "department_key": "DEPTMENT_IC",
+            "department_name": "Dep",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 169,
+            "department_key": "SRK_USER",
+            "department_name": "tyuu",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 176,
+            "department_key": "SRK_USER",
+            "department_name": "rtukyh",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 177,
+            "department_key": "SRK_SHORTING",
+            "department_name": "Sjhgj",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 179,
+            "department_key": "SRK_USER",
+            "department_name": "gjhkjk",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 183,
+            "department_key": "SRK_USER",
+            "department_name": "olcj",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 186,
+            "department_key": "SRK_USER",
+            "department_name": "pcap",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 209,
+            "department_key": "SRK_USER",
+            "department_name": "scte",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 211,
+            "department_key": "SRK_USER",
+            "department_name": "cyrq",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 215,
+            "department_key": "SRK_USER",
+            "department_name": "pwcb",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 247,
+            "department_key": "SRK_USER",
+            "department_name": "zues",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 249,
+            "department_key": "SRK_USER",
+            "department_name": "tluq",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 251,
+            "department_key": "SRK_USER",
+            "department_name": "yzar",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }, {
+            "department_code": 253,
+            "department_key": "DEPTMENT_IC",
+            "department_name": "Deptment IC",
+            "category_list": [{
+                "category_code": 2,
+                "category_key": "SUPER_ADMIN",
+                "category_name": "Super Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 3,
+                "category_key": "ADMIN",
+                "category_name": "Admin",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 4,
+                "category_key": "USER",
+                "category_name": "User",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 5,
+                "category_key": "dfasfdsfs",
+                "category_name": "Test",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 6,
+                "category_key": "fdsfsadasf",
+                "category_name": "fsdfsaf",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }, {
+                "category_code": 7,
+                "category_key": "GP",
+                "category_name": "Grand Permission",
+                "user_list": [],
+                "enc_dec_list": {
+                    "party_name": false,
+                    "party_address": false
+                }
+            }]
+        }]
+    }, {
+        "company_code": 2,
+        "company_key": "SGOLDI",
+        "company_name": "SGOLDI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 3,
+        "company_key": "RGOLDI",
+        "company_name": "RGOLDI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 4,
+        "company_key": "VGOLDI",
+        "company_name": "VGOLDI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 5,
+        "company_key": "M",
+        "company_name": "MANEEDIAM",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 6,
+        "company_key": "AGOLDI",
+        "company_name": "AGOLDI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 7,
+        "company_key": "DGOLDI",
+        "company_name": "DGOLDI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 8,
+        "company_key": "NEW",
+        "company_name": "NEW",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 9,
+        "company_key": "DUBAI",
+        "company_name": "DUBAI",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }, {
+        "company_code": 10,
+        "company_key": "DE",
+        "company_name": "DEACTIVATE",
+        "master_admin_category": {
+            "category_code": 1,
+            "category_key": "MASTER_ADMIN",
+            "category_name": "Master Admin",
+            "user_list": [],
+            "enc_dec_list": {
+                "party_name": false,
+                "party_address": false
+            }
+        },
+        "department_list": []
+    }]
+}

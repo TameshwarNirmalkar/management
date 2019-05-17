@@ -1,0 +1,265 @@
+{
+    "error_status": false,
+    "code": "200",
+    "message": "Success",
+    "data": {
+        "pms_add_show_kam_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_read_company_code_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_company_info_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        },
+        "pms_web_user_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "web user tab"
+        },
+        "pms_assigned_new_broker_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "assign new broker button"
+        },
+        "pms_price_discount_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "price discount tab"
+        },
+        "pms_assign_tags_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "assign tags"
+        },
+        "pms_edit_reference_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "edit reference button"
+        },
+        "pms_read_company_group_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_summery_page": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "summery page"
+        },
+        "pms_add_company_group_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_add_company_status_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_address_info_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "address tab"
+        },
+        "pms_business_type_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "business type text"
+        },
+        "pms_assigned_new_roles_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "assign new role button"
+        },
+        "pms_add_new_address_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "add new address button"
+        },
+        "pms_save_handling_company_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_read_entry_date_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_billing_address_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "billing tab"
+        },
+        "pms_company_status_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "company status text"
+        },
+        "pms_edit_addresses_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "edit address button"
+        },
+        "account_income_expense_master_branch_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        },
+        "pms_company_group_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "company group"
+        },
+        "pms_add_kam_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "party master menu"
+        },
+        "pms_bank_details_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "bank detail tab"
+        },
+        "pms_shipping_address_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "shipping  tab"
+        },
+        "pms_company_name_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "company name text"
+        },
+        "pms_add_management_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_delete_addresses_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "delete address button"
+        },
+        "pms_read_company_name_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_add_reference_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "add reference button"
+        },
+        "pms_read_company_status_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_view_reference_details_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view reference details"
+        },
+        "pms_read_business_type_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_remove_tag_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "remove tag"
+        },
+        "pms_add_new_company_address_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "add new company-address button"
+        },
+        "pms_contact_person_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Contact person tab"
+        },
+        "pms_handling_company_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "handling company name"
+        },
+        "pms_permission_and_limit_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "permission & limit tab"
+        },
+        "pms_add_account_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_add_tag_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "add tag"
+        },
+        "pms_save_business_type_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        }
+    }
+}

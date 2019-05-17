@@ -1,0 +1,30 @@
+{
+    "error_status": false,
+    "code": "USER_REQUEST_SUCCESS",
+    "message": "Request fulfilled successfully",
+    "data": [{
+        "category_code": 2,
+        "category_key": "SUPER_ADMIN",
+        "category_name": "Super Admin",
+        "user_list": [],
+        "enc_dec_list": {}
+    }, {
+        "category_code": 3,
+        "category_key": "ADMIN",
+        "category_name": "Admin",
+        "user_list": [],
+        "enc_dec_list": {}
+    }, {
+        "category_code": 4,
+        "category_key": "USER",
+        "category_name": "User",
+        "user_list": [],
+        "enc_dec_list": {}
+    }, {
+        "category_code": 22,
+        "category_key": "PADMIN",
+        "category_name": "PURE_ADMIN",
+        "user_list": [],
+        "enc_dec_list": {}
+    }]
+}

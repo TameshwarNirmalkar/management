@@ -1,0 +1,39 @@
+[{
+    "user_full_name": "Ritesh Khatri",
+    "login_name": "ritesh.khatri",
+    "user_code": 202,
+    "category_code": 4,
+    "department_code": [10],
+    "company_codes": [10],
+    "group_code": 0,
+    "organization_details": [],
+    "acting_active_role": "4",
+    "is_master_admin": false,
+    "password": "srk1964"
+  }, {
+    "user_full_name": "Prahubhai Dholikiya",
+    "login_name": "ppd",
+    "user_code": 153,
+    "category_code": 1,
+    "department_code": [1],
+    "company_codes": [1],
+    "group_code": 1,
+    "organization_details": [1],
+    "acting_active_role": "1",
+    "is_master_admin": true,
+    "password": "srk1964"
+  },
+  {
+    "user_full_name": "Tameshwar Nirmalkar",
+    "login_name": "tn",
+    "user_code": 212,
+    "category_code": 4,
+    "department_code": [10],
+    "company_codes": [10],
+    "group_code": 10,
+    "organization_details": [],
+    "acting_active_role": "4",
+    "is_master_admin": false,
+    "password": "86849"
+  }
+]

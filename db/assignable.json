@@ -1,0 +1,847 @@
+{
+    "error_status": false,
+    "code": "200",
+    "message": "Success",
+    "data": {
+        "account_vendor_master_status_checkbox": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor status checkbox"
+        },
+        "account_vendor_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor edit button"
+        },
+        "account_bank_account_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank account edit button"
+        },
+        "account_vendor_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor delete button"
+        },
+        "account_bank_account_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank account delete button"
+        },
+        "account_bank_account_master_add_bank_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank account add bank button"
+        },
+        "account_vendor_master_add_vendor_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor add button"
+        },
+        "account_bank_account_master_type_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank account type dropdown"
+        },
+        "account_vendor_master_type_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor type dropdown"
+        },
+        "account_vendor_master_branch_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor branch dropdown"
+        },
+        "account_gst_master_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst master add button"
+        },
+        "account_gst_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst master edit button"
+        },
+        "account_gst_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst master delete button"
+        },
+        "account_conversion_rbi_rates_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion rbi add button"
+        },
+        "account_conversion_rbi_rates_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion rbi edit button"
+        },
+        "account_conversion_rbi_rates_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion rbi delete button"
+        },
+        "account_conversion_custom_rates_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion custom add button"
+        },
+        "account_conversion_custom_rates_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion custom edit button"
+        },
+        "account_conversion_custom_rates_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion custom delete button"
+        },
+        "account_gst_state_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst state edit button"
+        },
+        "account_tds_master_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Tds master add button"
+        },
+        "account_tds_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Tds master edit button"
+        },
+        "account_tds_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Tds master delete button"
+        },
+        "account_gst_product_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst product add button"
+        },
+        "account_gst_product_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst product edit button"
+        },
+        "account_gst_product_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Gst product delete button"
+        },
+        "account_location_master_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Location master add button"
+        },
+        "account_location_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Location master edit button"
+        },
+        "account_location_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Location master delete button"
+        },
+        "account_bank_account_master_edit_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Edit button"
+        },
+        "account_vendor_master_edit_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Edit button"
+        },
+        "account_bank_account_master_status_checkbox": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Status type check box"
+        },
+        "account_income_expense_master_type_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        },
+        "account_bank_master_status_table_element": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Status Table Element"
+        },
+        "account_bank_account_master_branch_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        },
+        "account_bank_account_master_type_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        },
+        "account_vendor_master_type_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Status Table Element"
+        },
+        "account_vendor_master_branch_drpdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Status Table Element"
+        },
+        "pms_save_company_name_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "save"
+        },
+        "pms_company_code_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "company code text"
+        },
+        "pms_entry_date_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "entry date text"
+        },
+        "pms_read_handling_company_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "view"
+        },
+        "pms_assigned_new_guarantor_btn": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "assign new guarantor button"
+        },
+        "pms_kam_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Kam Remark Text"
+        },
+        "pms_show_kam_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "show-kam remark text"
+        },
+        "pms_management_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "management remark text"
+        },
+        "pms_account_remark_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Account Remark Text"
+        },
+        "account_bank_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank edit button"
+        },
+        "account_income_expense_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income expense edit button"
+        },
+        "account_income_expense_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income expense add button"
+        },
+        "account_income_expense_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income expense delete Button"
+        },
+        "account_income_expense_sub_expense_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income Expense Sub Expense Button"
+        },
+        "account_master_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Account Master Menu"
+        },
+        "account_tds_master_status_checkbox": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "tds status checkbox"
+        },
+        "account_gst_master_status_checkbox": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "gst status checkbox"
+        },
+        "account_gst_product_master_status_checkbox": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "get product status checkbox"
+        },
+        "account_org_master_add_org_option": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN-OPTION",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Org add option"
+        },
+        "account_director_master_add_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Director add button"
+        },
+        "account_director_master_edit_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Director edit button"
+        },
+        "account_director_master_delete_button": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Director delete button"
+        },
+        "account_group_master_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Group Master link"
+        },
+        "account_bank_account_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank Account Master link"
+        },
+        "account_rbi_bank_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "RBI Bank Master link"
+        },
+        "account_gst_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST Master link"
+        },
+        "account_conversion_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion Master link"
+        },
+        "account_gst_state_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST State link"
+        },
+        "account_tds_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "TDS Master link"
+        },
+        "account_gst_product_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST Product Master link"
+        },
+        "account_income_expense_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income Expense link"
+        },
+        "account_vendor_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor Master link"
+        },
+        "account_organization_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Organization Master link"
+        },
+        "account_location_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Location Master link"
+        },
+        "account_director_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Director Master link"
+        },
+        "account_branch_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Branch Master link"
+        },
+        "account_branch_type_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Branch Type Master link"
+        },
+        "account_statutory_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Statutory Master link"
+        },
+        "dashboard_menu": {
+            "resource_type": "HTML-ELEMENT-MENU-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Dashboard menu link"
+        },
+        "party_master_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Party master menu"
+        },
+        "stock_dashboard_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "stock dashboard menu"
+        },
+        "kam_master_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "kam master menu"
+        },
+        "appointment_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "appointment menu"
+        },
+        "stock_inventory_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "stock inventory menu"
+        },
+        "multi_stone_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "multi stone menu"
+        },
+        "verification_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Verification menu"
+        },
+        "grading_dashboard_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "grading dashboard menu"
+        },
+        "accounting_dashboard_menu": {
+            "resource_type": "HTML-ELEMENT-MENU-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Accounting dashboard menu link"
+        },
+        "permissions_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "permissions menu"
+        },
+        "account_branch_master_add_branch_option": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN-OPTION",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Branch add option"
+        },
+        "account_group_master_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Group Master tab"
+        },
+        "account_bank_account_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Bank Account Master tab"
+        },
+        "account_rbi_bank_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "RBI Bank Master tab"
+        },
+        "account_gst_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST Master tab"
+        },
+        "account_conversion_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Conversion Master tab"
+        },
+        "account_gst_state_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST State tab"
+        },
+        "account_tds_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "TDS Master tab"
+        },
+        "account_gst_product_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "GST Product Master tab"
+        },
+        "account_income_expense_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Income Expense tab"
+        },
+        "account_vendor_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Vendor Master tab"
+        },
+        "account_organization_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Organization Master tab"
+        },
+        "account_location_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Location Master tab"
+        },
+        "account_director_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Director Master tab"
+        },
+        "account_branch_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Branch Master tab"
+        },
+        "account_branch_type_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Branch Type Master tab"
+        },
+        "account_statutory_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Statutory Master tab"
+        },
+        "account_shipping_term_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Shipping Master tab"
+        },
+        "account_lut_bond_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "LUT Bond Master tab"
+        },
+        "css_dashboard_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "CSS dashboard menu"
+        },
+        "modification_request_menu": {
+            "resource_type": "HTML-ELEMENT-MENU",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Modification request menu"
+        },
+        "account_shipping_master_type_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Shipping master dropdown"
+        },
+        "account_lut_master_type_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "LUT master dropdown"
+        },
+        "account_carrier_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Carrier Master tab"
+        },
+        "account_org_master_get_all_records": {
+            "resource_type": "HTML-ELEMENT-BUTTON",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Get all records"
+        },
+        "address_status_verification_dropdown": {
+            "resource_type": "HTML-ELEMENT-DROPDOWN",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Address status verification dropdown"
+        },
+        "is_kam_consignment_allowed": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 165,
+            "resource_name": "Kam is able to do consignments"
+        },
+        "is_online_consignment_allowed": {
+            "resource_type": "HTML-ELEMENT-CHECKBOX",
+            "resource_code": 0,
+            "department_id": 165,
+            "resource_name": "Online user is able to do consignments"
+        },
+        "grading_process_memo_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Grading process memo link"
+        },
+        "lab_inward_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Lab inward link"
+        },
+        "grading_transaction_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Grading transaction link"
+        },
+        "stock_wise_history_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Stock wise history link"
+        },
+        "stone_view_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Stone view link"
+        },
+        "stock_tally_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Stock tally link"
+        },
+        "packet_entry_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Packet entry link"
+        },
+        "internal_master_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Internal master link"
+        },
+        "internal_transaction_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Internal transaction link"
+        },
+        "grading_stock_summary_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Grading stock summary link"
+        },
+        "without_market_date_view_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Without market date view link"
+        },
+        "rfid_tag_write_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Rfid tag write link"
+        },
+        "view_request_form_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "View request form link"
+        },
+        "lab_expense_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Lab expense link"
+        },
+        "grading_missing_data_search_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Grading missing data search link"
+        },
+        "packet_making_form_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Packet making form link"
+        },
+        "lab_expense_calculator_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Lab expense calculator link"
+        },
+        "stone_purchase_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Stone purchase link"
+        },
+        "hrd_cut_grade_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Hrd cut grade link"
+        },
+        "web_services_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Web services quick link"
+        },
+        "new_stone_entry_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "New stone entry link"
+        },
+        "grading_web_services_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Grading web services quick link"
+        },
+        "lab_mapping_masters_quick_link": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "lab mapping masters quick link"
+        },
+        "dummy1": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 11,
+            "resource_name": "dummy1"
+        },
+        "dummy2": {
+            "resource_type": "HTML-ELEMENT-LINK",
+            "resource_code": 0,
+            "department_id": 12,
+            "resource_name": "dummy2"
+        }
+    }
+}

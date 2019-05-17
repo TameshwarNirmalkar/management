@@ -1,0 +1,604 @@
+{
+    "error_status": false,
+    "code": "AUTH_LOGIN_200",
+    "message": "Login Successful...",
+    "data": {
+        "user_payload": {
+            "user_code": 202,
+            "user_full_name": "Ritesh Khatri",
+            "user_loginname": "ritesh.khatri",
+            "category_code": 4,
+            "department_code": 10,
+            "group_code": 0,
+            "organization_details": [],
+            "company_codes": [1]
+        },
+        "roles": {
+            "4": {
+                "grading_missing_data_search_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Grading missing data search link"
+                },
+                "pms_read_handling_company_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "view_request_form_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "View request form link"
+                },
+                "pms_company_info_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Company information tab"
+                },
+                "grading_web_services_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Grading web services quick link"
+                },
+                "pms_price_discount_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "price discount tab"
+                },
+                "pms_summery_page": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "summery page"
+                },
+                "pms_add_company_group_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "pms_add_company_status_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "lab_expense_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Lab expense link"
+                },
+                "stone_purchase_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Stone purchase link"
+                },
+                "stone_view_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Stone view link"
+                },
+                "without_market_date_view_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Without market date view link"
+                },
+                "pms_read_entry_date_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "new_stone_entry_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "New stone entry link"
+                },
+                "pms_shipping_address_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "shipping  tab"
+                },
+                "pms_read_company_name_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "hrd_cut_grade_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Hrd cut grade link"
+                },
+                "pms_add_reference_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "add reference button"
+                },
+                "internal_master_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Internal master link"
+                },
+                "pms_remove_tag_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "remove tag"
+                },
+                "pms_contact_person_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Contact person tab"
+                },
+                "pms_permission_and_limit_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "permission & limit tab"
+                },
+                "pms_save_business_type_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "grading_transaction_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Grading transaction link"
+                },
+                "stock_tally_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Stock tally link"
+                },
+                "pms_save_company_name_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "pms_read_company_code_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "pms_web_user_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "web user tab"
+                },
+                "packet_making_form_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Packet making form link"
+                },
+                "pms_assign_tags_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "assign tags"
+                },
+                "pms_edit_reference_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "edit reference button"
+                },
+                "pms_read_company_group_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "pms_address_info_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "address tab"
+                },
+                "grading_stock_summary_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Grading stock summary link"
+                },
+                "pms_save_handling_company_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "lab_mapping_masters_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "lab mapping masters quick link"
+                },
+                "pms_billing_address_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "billing tab"
+                },
+                "grading_process_memo_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Grading process memo link"
+                },
+                "pms_menu": {
+                    "resource_type": "HTML-ELEMENT-MENU",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "party master menu"
+                },
+                "lab_expense_calculator_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Lab expense calculator link"
+                },
+                "pms_bank_details_tab": {
+                    "resource_type": "HTML-ELEMENT-TAB",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "bank detail tab"
+                },
+                "rfid_tag_write_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Rfid tag write link"
+                },
+                "pms_add_management_remark_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "save"
+                },
+                "pms_read_company_status_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "pms_view_reference_details_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view reference details"
+                },
+                "pms_read_business_type_txt": {
+                    "resource_type": "HTML-ELEMENT-TEXT",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "view"
+                },
+                "stock_wise_history_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Stock wise history link"
+                },
+                "packet_entry_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Packet entry link"
+                },
+                "internal_transaction_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Internal transaction link"
+                },
+                "lab_inward_quick_link": {
+                    "resource_type": "HTML-ELEMENT-LINK",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "Lab inward link"
+                },
+                "pms_add_tag_btn": {
+                    "resource_type": "HTML-ELEMENT-BUTTON",
+                    "resource_code": 0,
+                    "department_id": 10,
+                    "resource_name": "add tag"
+                }
+            }
+        },
+        "session_data": {
+            "mapping": {
+                "sequence": 0,
+                "token": "deab5e52-5595-40c7-bbcd-836049c23f8f"
+            },
+            "user_details": {
+                "user_full_name": "Ritesh Khatri",
+                "login_name": "ritesh.khatri ",
+                "user_code": 202,
+                "category_code": 4,
+                "department_code": [10],
+                "company_codes": [1],
+                "group_code": 0,
+                "organization_details": [],
+                "acting_active_role": "4",
+                "is_master_admin": false
+            },
+            "device_details": {
+                "name": "Chrome",
+                "model": "",
+                "device_type": "Computer",
+                "version": "72",
+                "ip": "",
+                "country_code": ""
+            },
+            "org_code": 1,
+            "app_code": "13",
+            "org_name": "srkexports",
+            "app_name": "solitaire-admin",
+            "auth_type": "KAM",
+            "date_time": "2019-04-15T05:56:12.890Z",
+            "expire": 86400,
+            "active_role": "4",
+            "data_permissions": {
+                "defaultDataPermissions": [{
+                    "13-109-209-410-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "13-109-209-410-1-1": {
+                        "permission": "0",
+                        "actions": ["540"]
+                    },
+                    "10-3-11-353-1-4": {
+                        "permission": "0",
+                        "actions": ["1", "2", "3", "17"]
+                    },
+                    "23-118-215-420-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "23-118-215-420-3-1": {
+                        "permission": "0",
+                        "actions": ["547"]
+                    },
+                    "28-122-217-422-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "28-122-217-422-3-1": {
+                        "permission": "0",
+                        "actions": ["549"]
+                    },
+                    "33-125-219-424-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "33-125-219-424-3-1": {
+                        "permission": "0",
+                        "actions": ["551"]
+                    },
+                    "8-2-11-274-2-1": {
+                        "permission": "2",
+                        "actions": ["1", "2", "3", "17", "421", "59", "547", "57", "251", "4", "551", "540", "549"]
+                    },
+                    "52-143-222-427-1-1": {
+                        "permission": "0",
+                        "actions": ["558"]
+                    },
+                    "52-143-221-426-2-1": {
+                        "permission": "0",
+                        "actions": ["557"]
+                    },
+                    "31-33-216-421-1-1": {
+                        "permission": "0",
+                        "actions": ["561"]
+                    },
+                    "31-33-216-421-2-1": {
+                        "permission": "0",
+                        "actions": ["561"]
+                    },
+                    "8-2-10-353-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "119-169-240-501-2-1": {
+                        "permission": "0",
+                        "actions": ["583"]
+                    },
+                    "119-169-241-502-1-1": {
+                        "permission": "0",
+                        "actions": ["584"]
+                    },
+                    "132-176-242-503-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "132-177-243-504-1-1": {
+                        "permission": "0",
+                        "actions": ["587"]
+                    },
+                    "135-179-244-508-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "135-179-244-508-1-1": {
+                        "permission": "0",
+                        "actions": ["590"]
+                    },
+                    "142-183-246-510-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "142-183-246-510-3-1": {
+                        "permission": "0",
+                        "actions": ["592"]
+                    },
+                    "145-186-248-513-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "145-186-248-513-3-1": {
+                        "permission": "0",
+                        "actions": ["595"]
+                    },
+                    "150-209-251-519-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "150-209-251-519-3-1": {
+                        "permission": "0",
+                        "actions": ["603"]
+                    },
+                    "152-211-253-521-2-1": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "152-211-253-521-3-1": {
+                        "permission": "0",
+                        "actions": ["605"]
+                    },
+                    "156-215-255-523-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "156-215-255-523-3-1": {
+                        "permission": "0",
+                        "actions": ["607"]
+                    },
+                    "7-46-10-353-2-1": {
+                        "permission": "0",
+                        "actions": ["609"]
+                    },
+                    "8-2-11-348-2-1": {
+                        "permission": "0",
+                        "actions": ["609"]
+                    },
+                    "8-4-11-274-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "7-2-11-354-3-1": {
+                        "permission": "0",
+                        "actions": ["613"]
+                    },
+                    "10-4-11-345-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "202-247-267-547-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "202-247-267-547-3-1": {
+                        "permission": "0",
+                        "actions": ["615"]
+                    },
+                    "204-249-269-549-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "204-249-269-549-3-1": {
+                        "permission": "0",
+                        "actions": ["617"]
+                    },
+                    "209-251-271-551-1-2": {
+                        "permission": "0",
+                        "actions": []
+                    },
+                    "209-251-271-551-3-1": {
+                        "permission": "0",
+                        "actions": ["619"]
+                    },
+                    "7-1-1-549-1-1": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "7-1-1-550-1-2": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "7-1-1-549-1-2": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "7-1-1-549-1-3": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "7-1-1-550-1-3": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "7-1-1-550-1-8": {
+                        "permission": "0",
+                        "actions": ["4"]
+                    },
+                    "220-254-281-585-1-2": {
+                        "permission": "0",
+                        "actions": ["32"]
+                    },
+                    "220-254-281-585-3-1": {
+                        "permission": "0",
+                        "actions": ["33"]
+                    }
+                }],
+                "additional": {
+                    "10-3-11-353-1-4": {
+                        "permission": "0",
+                        "actions": ["1", "2", "3", "17"]
+                    },
+                    "8-2-11-274-2-1": {
+                        "permission": "2",
+                        "actions": ["1", "2", "3", "17", "421", "59", "547", "57", "251", "4", "551", "540", "549"]
+                    },
+                    "31-33-216-421-1-1": {
+                        "permission": "0",
+                        "actions": ["561"]
+                    },
+                    "31-33-216-421-2-1": {
+                        "permission": "0",
+                        "actions": ["561"]
+                    }
+                },
+                "revoke": null
+            },
+            "ftp_permissions": {
+                "GRD": {
+                    "download_permission": true,
+                    "upload_permission": true,
+                    "upload_limit": 100,
+                    "download_limit": 10
+                },
+                "MAT": {
+                    "download_permission": true,
+                    "upload_permission": true,
+                    "upload_limit": 100,
+                    "download_limit": 10
+                }
+            }
+        }
+    }
+}

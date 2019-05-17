@@ -1,0 +1,23 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "modules": "commonjs",
+                "targets": {
+                    "node": "current"
+                }
+            }
+        ]
+    ],
+    "plugins": [
+        "@babel/syntax-dynamic-import",
+        "@babel/plugin-syntax-object-rest-spread",
+        [
+            "transform-es2015-arrow-functions",
+            {
+                "spec": true
+            }
+        ]
+    ],
+}

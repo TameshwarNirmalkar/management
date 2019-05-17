@@ -1,0 +1,41 @@
+{
+  "name": "json-server-fake-api",
+  "version": "1.0.0",
+  "description": "this is fake rest api mock server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/nodemon/bin/nodemon --exec babel-node src/index.js"
+  },
+  "keywords": [
+    "fake",
+    "api",
+    "json",
+    "server"
+  ],
+  "author": "Tameshwar Nirmalkar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-syntax-object-rest-spread": "^7.2.0",
+    "@babel/preset-env": "^7.4.3",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.4.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "error_status": false,
+    "code": "200",
+    "message": "Success",
+    "data": {
+        "pms_contact_person_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Contact person tab"
+        },
+        "pms_handling_company_txt": {
+            "resource_type": "HTML-ELEMENT-TEXT",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "handling company name"
+        },
+        "pms_company_info_tab": {
+            "resource_type": "HTML-ELEMENT-TAB",
+            "resource_code": 0,
+            "department_id": 10,
+            "resource_name": "Company information tab"
+        }
+    }
+}
