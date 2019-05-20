@@ -30,8 +30,11 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
     "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "i": "^0.3.6",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "npm": "^6.9.0"
   },
   "dependencies": {
     "dotenv": "^7.0.0",
