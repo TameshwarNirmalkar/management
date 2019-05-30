@@ -20,6 +20,10 @@ models.get('/:user_code/v1', (req, res) => {
   });
 });
 
+models.post('/:user_code/v1', (req, res) => {
+  res.status(200).json({ ...genericRes() });
+});
+
 models.post('/changeDepartmentRole/:id/v1', (req, res) => {
   res.status(200).json(Object.assign({ ...genericRes() }));
 });

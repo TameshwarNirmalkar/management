@@ -1,29 +1,26 @@
 [
     {
-        "user_code": 61,
-        "user_fullname": "AJAY R.SAVLIYA",
-        "rfid_ip": "111.111.111.111",
-        "user_rfid_assignment_code": 1557767111881,
-        "model_version": "P3900"
-    },
-    {
         "user_code": 129,
         "user_fullname": "BHAVESH SORATHIYA ( ADMIN )",
         "rfid_ip": "1.1.1.12",
         "userRfidAssignmentCode": 1557997280761,
-        "model_version": "L3000"
+        "model_version": "L3000",
+        "make": "Apple"
     },
     {
-        "user_code": 116,
-        "user_fullname": "JIGNESH BHALALA ( ADMIN )",
-        "rfid_ip": "3.3.3.3",
-        "model_version": "3223"
+        "user_code": 52,
+        "user_fullname": "DINESH VANDRA",
+        "rfid_ip": "1.2.3.22",
+        "model_version": "A16",
+        "make": "Gionee",
+        "userRfidAssignmentCode": 1558689757127
     },
     {
-        "user_code": 171,
-        "user_fullname": "SHOW ADMIN",
-        "rfid_ip": "11.11.11.1",
-        "userRfidAssignmentCode": 1557997992986,
-        "model_version": "2344"
+        "user_code": 40,
+        "user_fullname": "HARIKRISHNA MEHTA",
+        "rfid_ip": "2.2.23.33",
+        "model_version": "JS3",
+        "make": "Samsung",
+        "userRfidAssignmentCode": 1558689863133
     }
 ]

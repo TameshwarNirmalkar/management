@@ -9,7 +9,7 @@ models.get('/:user_code/v1', (req, res) => {
   });
 });
 
-models.put('/:user_code/v1', (req, res) => {
+models.post('/:user_code/v1', (req, res) => {
   of(data).subscribe(respone => {
     const payload = {
       error_status: false,

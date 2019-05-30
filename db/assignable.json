@@ -3,8 +3,8 @@
     "code": "200",
     "message": "Success",
     "data": {
-        "account_vendor_master_status_checkbox": {
-            "resource_type": "HTML-ELEMENT-CHECKBOX",
+        "account_vendor_master_ftp_download": {
+            "resource_type": "HTML-ELEMENT-BUTTON-FTP-DOWNLOAD",
             "resource_code": 0,
             "department_id": 10,
             "resource_name": "Vendor status checkbox"
@@ -189,8 +189,8 @@
             "department_id": 10,
             "resource_name": "Edit button"
         },
-        "account_bank_account_master_status_checkbox": {
-            "resource_type": "HTML-ELEMENT-CHECKBOX",
+        "account_bank_account_master_ftp_download": {
+            "resource_type": "HTML-ELEMENT-BUTTON-FTP-DOWNLOAD",
             "resource_code": 0,
             "department_id": 10,
             "resource_name": "Status type check box"
@@ -321,20 +321,20 @@
             "department_id": 10,
             "resource_name": "Account Master Menu"
         },
-        "account_tds_master_status_checkbox": {
-            "resource_type": "HTML-ELEMENT-CHECKBOX",
+        "account_tds_master_ftp_upload": {
+            "resource_type": "HTML-ELEMENT-BUTTON-FTP-UPLOAD",
             "resource_code": 0,
             "department_id": 10,
             "resource_name": "tds status checkbox"
         },
-        "account_gst_master_status_checkbox": {
-            "resource_type": "HTML-ELEMENT-CHECKBOX",
+        "account_gst_master_ftp_upload": {
+            "resource_type": "HTML-ELEMENT-BUTTON-FTP-UPLOAD",
             "resource_code": 0,
             "department_id": 10,
             "resource_name": "gst status checkbox"
         },
-        "account_gst_product_master_status_checkbox": {
-            "resource_type": "HTML-ELEMENT-CHECKBOX",
+        "account_gst_product_master_ftp_upload": {
+            "resource_type": "HTML-ELEMENT-BUTTON-FTP-UPLOAD",
             "resource_code": 0,
             "department_id": 10,
             "resource_name": "get product status checkbox"
