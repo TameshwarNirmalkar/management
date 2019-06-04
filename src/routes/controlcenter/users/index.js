@@ -23,4 +23,8 @@ models.get(`/permissions/ftp/v1`, (req, res) => {
   });
 });
 
+models.post(`/permissions/ftp/v1`, (req, res) => {
+  // {"MFG":{"download_limit":0,"download_permission":true,"upload_limit":0,"upload_permission":true}}
+});
+
 export default models;
