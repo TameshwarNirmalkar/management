@@ -1,0 +1,39 @@
+{
+    "data": {
+        "PMS": {
+            "upload_permission": true,
+            "download_permission": true,
+            "delete_permission": null,
+            "upload_limit": 10,
+            "download_limit": 5
+        },
+        "STK": {
+            "upload_permission": true,
+            "download_permission": true,
+            "delete_permission": null,
+            "upload_limit": 12,
+            "download_limit": 12
+        },
+        "MFG": {
+            "upload_permission": false,
+            "download_permission": false,
+            "delete_permission": null,
+            "upload_limit": 46,
+            "download_limit": 64
+        },
+        "GRD": {
+            "upload_permission": false,
+            "download_permission": true,
+            "delete_permission": null,
+            "upload_limit": 0,
+            "download_limit": 0
+        },
+        "PHOTO": {
+            "upload_permission": false,
+            "download_permission": false,
+            "delete_permission": null,
+            "upload_limit": 0,
+            "download_limit": 0
+        }
+    }
+}
